@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Bellota+Text|Raleway&display=swap');
+
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Bellota Text', cursive; */
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+* {box-sizing: border-box;
+    margin: 10px;
+}
+
+h1 {
+    color: darkmagenta;
+    font-family: 'Bellota Text', cursive;
+}
+
+.mainsection {
+background-color: palevioletred;
+
+}
+
+/* #aboutme {
+    background-color: mediumvioletred;
+} */
+
+#maincontent{
+    background-color: rgb(167, 167, 223);
+}
+
+#title{
+    background-color: aquamarine;
+}
